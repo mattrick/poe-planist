@@ -1,6 +1,6 @@
 #Roadmap draft
 
-### v0.1
+### v1.0
 
 #### Milestone 1 - Core UI stage
 * EQ, inventory and stash grid
@@ -21,7 +21,7 @@
 * socket links
 * add support gem logic
 
-### v1.0 - Passive tree stage
+#### Milestone 5 - Passive tree stage
 * parsing passive tree
 
 ### v1.1 - UX work
