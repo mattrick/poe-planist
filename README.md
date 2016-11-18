@@ -1,21 +1,23 @@
-##Roadmap draft
+#Roadmap draft
 
-### Milestone 1 - Core UI stage
+### v0.1
+
+#### Milestone 1 - Core UI stage
 * EQ, inventory and stash grid
 * add item from clipboard
 * right-click context menu
 * drag and drop
 * mock images
 
-### Milestone 2 - Core logic stage
+#### Milestone 2 - Core logic stage
 * translate attributes descriptions to data and vice-versa
 * calculate basic params - defenses
 
-### Milestone 3 - Offensive logic stage
+#### Milestone 3 - Offensive logic stage
 * support for sockets
 * skill gems!
 
-### Milestoen 4 - Support logic stage
+#### Milestone 4 - Support logic stage
 * socket links
 * add support gem logic
 
