@@ -1,5 +1,4 @@
 ##Roadmap draft
---------------------------------------------
 
 ### Milestone 1 - Core UI stage
 * EQ, inventory and stash grid
